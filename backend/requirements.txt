@@ -1,0 +1,16 @@
+# Web Framework & Server
+fastapi
+uvicorn[standard]
+pydantic
+
+# Database ORM & Driver
+SQLAlchemy
+psycopg2-binary
+
+# AI & Agentic Framework
+langgraph
+langchain-groq
+langchain-core
+
+# Environment Management
+python-dotenv
